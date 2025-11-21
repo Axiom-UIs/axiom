@@ -16,7 +16,7 @@ Explore our full design process and interactive prototypes:
 | Resource | Description | Link |
 | :--- | :--- | :--- |
 | **🎨 Figma Design** | High-fidelity screens & Interactive Prototype | [View Prototype](https://www.figma.com/design/qNd7NQ6GHTjJfSfMoCmcLp/G563_P1?node-id=0-1&t=OmypLdIjTq54wPdc-1) |
-| **📂 UX Case Study** | Full research, personas, user flows & documentation | [View Google Drive](https://drive.google.com/drive/folders/1CTkIsJ8dpyuHkRDkLQB3N-ymZEp5zBYu?usp=sharing) |
+| **📂 UX Case Study** | Full research, personas, user flows & documentation | [View Google Drive](https://drive.google.com/drive/folders/1L94NSH3XNSlH1wR9PVeyIl_1fbZd592E) |
 | **🖼️ Behance** | Visual presentation and UI showcase | *(Insert your Behance Link Here)* |
 
 ---
@@ -51,7 +51,7 @@ Our team followed the Design Thinking methodology to ensure a user-centric solut
 4.  **Prototype:** High-fidelity UI design in Figma.
 5.  **Test:** Usability testing and iteration.
 
-*You can view the detailed documentation of this process in the [Google Drive Link](https://drive.google.com/drive/folders/1CTkIsJ8dpyuHkRDkLQB3N-ymZEp5zBYu?usp=sharing).*
+*You can view the detailed documentation of this process in the [Google Drive Link](https://drive.google.com/drive/folders/1L94NSH3XNSlH1wR9PVeyIl_1fbZd592E).*
 
 ---
 
