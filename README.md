@@ -17,7 +17,7 @@ Explore our full design process and interactive prototypes:
 | :--- | :--- | :--- |
 | **🎨 Figma Design** | High-fidelity screens & Interactive Prototype | [View Prototype](https://www.figma.com/design/PYRy5hksKFduNsdlb8Ggt9/G563_P1?node-id=1-6&p=f&t=SI1kBEeFOLGB3TE9-0) |
 | **📂 UX Case Study** | Full research, personas, user flows & documentation | [View Google Drive](https://drive.google.com/drive/folders/1L94NSH3XNSlH1wR9PVeyIl_1fbZd592E) |
-| **🖼️ Behance** | Visual presentation and UI showcase | *(Insert your Behance Link Here)* |
+| **🖼️ Behance** | Visual presentation and UI showcase | [Behance Link](https://www.behance.net/gallery/239039279/Medico) |
 
 ---
 
